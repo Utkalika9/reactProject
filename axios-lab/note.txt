@@ -15,3 +15,4 @@ Create a db.json file in the root location of the project and add sample data in
     }
 Run the db
     json-server --watch db.json --port 3001
+Split the terminal and run the command npm run start
