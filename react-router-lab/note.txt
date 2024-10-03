@@ -3,6 +3,7 @@
     cd react-router-lab
     npm install axios
     npm install react-router-dom
+    npm install dotenv
     create a db.json file and enter details of some user
     cd src/
     touch components
@@ -35,7 +36,7 @@
     then
     (
         after that command is run succeffully split the terminal and run
-         npm run start in the another split terminal
+         npm run app in the another split terminal
     )
 }
 lastly git add .
